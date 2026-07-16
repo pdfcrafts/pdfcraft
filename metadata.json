@@ -1,0 +1,6 @@
+{
+  "name": "PDFCraft",
+  "description": "Plateforme d'outils PDF en ligne gratuits, rapides et sécurisés. Fusionnez, divisez, compressez, convertissez et protégez vos PDF directement dans votre navigateur sans téléverser vos fichiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
